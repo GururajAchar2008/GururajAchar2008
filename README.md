@@ -1,16 +1,14 @@
-## Hi there 👋
+💫 About Me:
+I have more than 2 years of experience in website and webapp development, I am a developer who loves turning creative ideas into functional and elegant websites. My goal is to combine aesthetics with seamless user experience, building digital solutions that leave a lasting impression. Take a look at my work and see how I can help bring your vision to life.
 
-<!--
-**GururajAchar2008/GururajAchar2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram [LinkedIn](https://linkedin.com/in/gururaj achar) [X](https://x.com/gururaj achar) email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+Python JavaScript HTML5 Java CSS3 React TailwindCSS MySQL Render Vercel Flask Adobe Figma Framer NumPy GitHub Actions Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
